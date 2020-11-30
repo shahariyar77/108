@@ -1,0 +1,143 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto; 
+}
+/*.welcome-area{
+    background-image: url(img/nice.jpg);
+}*/
+
+.main-manu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: right;
+}
+.main-manu li {
+  display: inline-block;
+}
+.main-manu li a {
+  padding: 25px;
+  display: block;
+}
+.header-area {
+  border-bottom: 1px solid#ddd;
+  font-size: 16px;
+}
+.header-area a {
+  color: #333;
+}
+.logo {
+  font-size: 30px;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-weight: 900;
+  padding: 15px 0;
+}
+.social-link {
+  border-left: 1px solid#ddd;
+  padding-left: 15px;
+}
+.social-link a {
+  padding: 25px 15px;
+  display: inline-block;
+}
+.logo span {
+  color: #20b2fb;
+}
+html, body {
+  height: 100%;
+}
+.welcome-area {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+.welcome-inner {
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 20px;
+}
+.welcome-inner h4 {
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.welcome-inner h1 {
+  font-size: 80px;
+  font-weight: 900;
+  line-height: 1.2;
+  padding-bottom: 50px;
+}
+.welcome-inner p {
+  text-transform: uppercase;
+}
+.video-btn {
+  height: 60px;
+  width: 60px;
+  display: inline-block;
+  background: #fff;
+  line-height: 60px;
+  border-radius: 50%;
+  font-size: 20px;
+  color: #333;
+  padding-left: 6px;
+  margin-right: 13px;
+  transition: .2s;
+}
+.header-area.header-absulete {
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+.header-area.header-absulete a {
+  color: #fff;
+}
+.slider-bg-1{
+    background-image: url(img/slide1.jpg);
+}.slider-bg-2{
+    background-image: url(img/slide2.jpg);
+}.slider-bg-3{
+    background-image: url(img/slide3.jpg);
+}
+
+.homepage-slide, .homepage-slide div {
+  height: 100%;
+}
+.welcome-area, .welcome-area div {
+  height: auto;
+}
+.homepage-slide .owl-nav, .owl-nav div{
+    height: auto;
+}
+.single-slider-item {
+	background-size: cover;
+	background-position: center;
+	background-color: #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+
+/* (1920x1080) Full HD Display */
+
+@media  screen and (max-width: 1920px) {}
+
+/* (1366x768) WXGA Display */
+@media  screen and (max-width: 1366px) {}
+/*---------------- iPads (portrait and landscape) ---------------------- */
+@media only screen and (min-device-width: 980px) and (max-device-width: 1280px) {
+  
+    
+   
+ 
+} 
+    
+   
+/*------------------- iPads (portrait and landscape) -------------------- */
+
+@media only screen and (min-device-width: 768px) and (max-device-width: 980px) {
+     
+    
+    
+}
+
+/*-----------------=== smartphones (portait and landscape)===-----------------------*/
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 640px) {
+    
+        
+}
+/*=================   iPad  landscape  =======================*/
+
